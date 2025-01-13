@@ -3,7 +3,6 @@
 ![Restaurant_website](https://github.com/codersgyan/Responsive-restaurant-website/blob/master/restaurant-webpage.jpg)
 
 
-Certainly! Here’s a concise and engaging description you can use for your GitHub repository based on the provided HTML code:
 
 ---
 
